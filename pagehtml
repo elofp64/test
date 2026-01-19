@@ -23,7 +23,6 @@
     <section id="work">
         <h2>Work Experience</h2>
         <ul>
-            <li>Software Engineer at Tech Company</li>
             <li>Senior Developer at Web Solutions</li>
             <li class="important">Lead Engineer at Innovative Tech</li>
         </ul>
