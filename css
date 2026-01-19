@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(255, 255, 255);
+  
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color:rgb(60, 179, 113);
+
+}
+
+h2 {
+  color: rgb(255, 0, 0);
+  border-bottom: 6px solid rgb(0, 113, 25);
+}
+
+p {
+  font-family: arial,sans-serif ;
+}
+
+section {
+  border-style: groove;
+  margin: 50px;
+}
