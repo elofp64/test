@@ -39,10 +39,5 @@
             <li>HTML & CSS</li>
         </ul>
     </section>
-    <footer>
-        <h2>Contact</h2>
-        <p>If interested in my profile, please send a message to <a href="mailto:j.doe@estia.fr">j.doe@estia.fr</a></p>
-        <p>Thank you for your time!</p>
-    </footer>
 </body>
 </html>
